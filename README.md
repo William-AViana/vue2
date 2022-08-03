@@ -1,7 +1,7 @@
 # Vue2 
 
 ## Grade de aprendizado
-[ ] Introdução
+[x] Introdução
 [ ] Usando VueJs para interagir com a DOM
 [ ] Usando Condicionais & Renderização de Listas
 [ ] Projeto #01
